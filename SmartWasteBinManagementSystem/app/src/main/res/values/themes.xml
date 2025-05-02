@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.SmartWasteBinManagementSystem" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color -->
+        <item name="colorPrimary">#4CAF50</item> <!-- Light green -->
+        <item name="colorPrimaryVariant">#388E3C</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+        <!-- Secondary brand color -->
+        <item name="colorSecondary">#2196F3</item> <!-- Blue -->
+        <item name="colorSecondaryVariant">#1976D2</item>
+        <item name="colorOnSecondary">#FFFFFF</item>
+        <!-- Background color -->
+        <item name="android:windowBackground">#FFFFFF</item>
+    </style>
+</resources>
