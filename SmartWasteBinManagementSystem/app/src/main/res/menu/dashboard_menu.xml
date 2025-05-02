@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_map"
+        android:title="Map"
+        android:icon="@android:drawable/ic_menu_mapmode"
+        android:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/menu_report_issue"
+        android:title="Report Issue"
+        android:icon="@android:drawable/ic_menu_send"
+        android:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/menu_logout"
+        android:title="Logout"
+        android:icon="@android:drawable/ic_lock_power_off"
+        android:showAsAction="ifRoom" />
+</menu>
